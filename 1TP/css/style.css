@@ -1,0 +1,19 @@
+*{  margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+}
+
+body{
+    background-color: rgb(67, 137, 199);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 600px;
+}
