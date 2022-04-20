@@ -17,7 +17,7 @@ h1 {
     
     display: table;
     justify-content: center;
-
+    
 }
 
 .encabezado {
@@ -26,6 +26,7 @@ h1 {
     height: 50%;
     display: flex;
     justify-content: center;
+    align-items: center;
     border-radius: 10%;
     border: 4px solid rgb(117, 169, 185);
     background: linear-gradient(45deg, #b6dea6, #6d6bd8);
@@ -38,6 +39,7 @@ h1 {
     margin-left: 240px;
     display: flex;
     justify-content: center;
+    align-items: center;
     border-radius: 5%;
     border: 4px solid rgb(17, 84, 2);
     background: linear-gradient(45deg, #91db91, #09781f);
@@ -49,6 +51,7 @@ h1 {
     height: 50%;
     display: flex;
     justify-content: center;
+    align-items: center;
     border-radius: 10%;
     border: 4px solid rgb(113, 165, 183);
     background: linear-gradient(45deg, #b6dea6, #6d6bd8);
@@ -61,6 +64,7 @@ h1 {
     margin-left: 140px;
     display: flex;
     justify-content: center;
+    align-items: center;
     border-radius: 5%;
     border: 4px solid rgb(17, 84, 2);
     background: linear-gradient(45deg, #91db91, #09781f);

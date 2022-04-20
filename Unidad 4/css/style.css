@@ -3,3 +3,12 @@
     padding: 0px;
     box-sizing: border-box;    
 }
+
+body {
+    background: linear-gradient(45deg, rgb(14, 100, 4), rgb(149, 212, 177));
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
