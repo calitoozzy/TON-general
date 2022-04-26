@@ -54,25 +54,26 @@ codigoDelVendedor = prompt("ingrese su codigo ");
 let d = prompt("Ingrese el numero del dia en el que esta ");
 
 if (d == 1) {
-    alert("hoy es lunes")
+    alert("hoy es lunes");
 } if (d == 2) {
-    alert("hoy es martes")
+    alert("hoy es martes");
 } else if (d == 3) {
-    alert("hoy es martes")
-} else if 
+    alert("hoy es martes");
+} 
 
 
 
 
 //9-
-
+/*
 
 //10-
-let recibos = prompt("ingrese el monto de su factura ");
-descuento = (recibos * 0.15);
+let recibo = prompt("ingrese el monto de su factura ");
+descuento = (recibo * 0.15);
 seAplicaDescuento = 100;
-if (recibos > seAplicaDescuento) {
-    alert("Se aplico 15% de descuento su total es " + (recibos - descuento));
+if (recibo > seAplicaDescuento) {
+    alert("Se aplico 15% de descuento su total es " + (recibo - descuento));
 } else {
-    alert("Su compra no tiene descuento su total es " + recibos);
+    alert("Su compra no tiene descuento su total es " + recibo);
 }
+*/
