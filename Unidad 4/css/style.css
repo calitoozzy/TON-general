@@ -12,3 +12,9 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 600px;
+}
