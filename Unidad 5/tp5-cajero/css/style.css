@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1a2a6c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: aqua;
+}
+
+.formulario {
+    margin-top: 100px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.form-group {
+    margin-right: 700px;
+    margin-left: 100px;
+  
+}
+
+button {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
